@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CharlKlein
 
 - 👀 I’m interested in 
--   Kubernetes
--   IoT
+ - Kubernetes
+ - IoT
 - 🌱 I’m currently learning
--   GoLang
+ - GoLang
 
 - 📫 How to reach me:
 -    @CharlKlein on Twitter 
