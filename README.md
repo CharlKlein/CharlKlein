@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @CharlKlein
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👀 I’m interested in 
+-   Kubernetes
+-   IoT
+- 🌱 I’m currently learning
+-   GoLang
+
+- 📫 How to reach me:
+-    @CharlKlein on Twitter 
 
 <!---
 CharlKlein/CharlKlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
